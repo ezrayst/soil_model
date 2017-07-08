@@ -3,7 +3,7 @@ Simulation of Different Soil Constitutive Models
 
 **Note to Developers**
 
-  1. Format using clang-format : `clang-format -i *.cpp`
+	1. Format using clang-format : `clang-format -i *.cpp`
 
 **Note to Users**
 
@@ -12,10 +12,9 @@ Simulation of Different Soil Constitutive Models
 **Github Tricks**
 
 Premanently Authenticating
-```
-$ git config credential.helper store
-$ git push https://github.com/repo.git
 
-Username for 'https://github.com': <USERNAME>
-Password for 'https://USERNAME@github.com': <PASSWORD>
-```
+	$ git config credential.helper store
+	$ git push https://github.com/repo.git
+
+	Username for 'https://github.com': <USERNAME>
+	Password for 'https://USERNAME@github.com': <PASSWORD>
