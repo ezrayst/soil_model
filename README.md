@@ -1,17 +1,15 @@
 # Soil Model
 Simulation of Different Soil Constitutive Models
 
-    1. Run `g++ -std=c++11 main.cpp -o main`
-
-Note to Developers
+**Note to Developers**
 
     1. Format using clang-format : `clang-format -i *.cpp`
 
-Note to Users
+**Note to Users**
 
-	1. [EMPTY]
+	1. Run `g++ -std=c++11 main.cpp -o main`
 
-Github Tricks
+**Github Tricks**
 
 Premanently authenticating :
 
