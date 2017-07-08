@@ -13,7 +13,8 @@ Note to Users
 
 Github Tricks
 
-	1. Premanently authenticating : 
+Premanently authenticating :
+
 	```
 	$ git config credential.helper store
 	$ git push https://github.com/repo.git
