@@ -1,5 +1,6 @@
 # Soil Model
-Simulation of Different Soil Constitutive Models
+Simulation of Different Soil Constitutive Models. The currently implemented models include:
+- Cam Clay
 
 **Note to Developers**
 
